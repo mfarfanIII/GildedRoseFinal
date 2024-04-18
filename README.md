@@ -7,3 +7,6 @@ Original source: [Gilded Rose Refactoring Kata](https://github.com/emilybache/Gi
 
 [Requirements (Spanish)](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_es.md)
 
+
+La presión
+
